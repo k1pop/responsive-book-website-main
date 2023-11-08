@@ -1,6 +1,7 @@
 Site web Responsive en HTML / CSS & JavaScript
-  -Avec animation au scroll
-  -un mode sombre et clair
+
+-Avec animation au scroll
+-un mode sombre et clair
 
 
 
